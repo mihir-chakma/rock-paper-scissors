@@ -29,10 +29,10 @@ Step-8: elif user_choice > computer_choice then user wins (opposite of step-7).
 Step-9: otherwise the game is a draw.
 
 
+### Programming Concepts: 
 
-
-- 1. random module
-- 2. python list
-- 3. if-elif-else
-- 4. python operators 
+- 1. Random module
+- 2. Python list
+- 3. If-elif-else
+- 4. Python operators 
 
